@@ -1,0 +1,24 @@
+[
+    {
+        "nama_pelanggan": "Rudi",
+        "tanggal": "2001-12-12",
+        "jam": "20:20",
+        "total": "38000",
+        "bayar_tunai": "50000",
+        "kembali": "12000",
+        "order_detail": [
+            {
+                "nama_barang": "melon",
+                "Qyt": "10",
+                "harga_barang": "2000",
+                "sub_total": "20000"
+            },
+            {
+                "nama_barang": "semangka",
+                "Qyt": "4",
+                "harga_barang": "4500",
+                "sub_total": "18000"
+            }
+        ]
+    }
+]
